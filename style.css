@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Comic Sans';
+  src: url('comicsans.ttf');
+}
+
+body{
+	font-family:Comic Sans;	
+	margin-top:50px;
+}
+
+.adblockdropdown{
+	background-color:#3498db;
+	width:100%;
+	color:white;
+	margin:-10px;
+	padding:10px;
+	position:fixed;
+	top:10px;
+}
